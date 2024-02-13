@@ -1,4 +1,9 @@
-#banner {
+<!--Navbar-->
+.navbar {
+  margin-bottom: 15px;
+}
+#main-banner {
+  min-height: 500px;
   background-image: url(./images/2020-12-22\ 13.07.49\(1\).jpg);
   background-size: cover;
   margin-bottom: 10px;
@@ -7,9 +12,6 @@
   font-size: 24px;
   color: blueviolet;
   text-align: right;
-}
-.navbar {
-  margin-bottom: 15px;
 }
 .about-me {
   margin-bottom: 15px;
