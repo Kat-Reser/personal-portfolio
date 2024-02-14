@@ -1,4 +1,4 @@
-#main-banner {
+#banner {
   min-height: 700px;
   background-image: url(./images/2020-12-22\ 13.07.49.jpg);
   background-size: cover;
@@ -11,6 +11,9 @@
 }
 .navbar {
   margin-bottom: 5px;
+}
+.img {
+  size: cover;
 }
 .about-me {
   margin-bottom: 15px;
